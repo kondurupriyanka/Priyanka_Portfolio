@@ -47,7 +47,7 @@ const Hero = () => {
               className="border-slate-600 text-slate-300 hover:bg-slate-800 hover:border-slate-500 transition-all duration-300"
               asChild
             >
-              <a href="/Priyanka_Konduru_AI_ML_Resume.pdf" download="Priyanka_Konduru_AI_ML_Resume.pdf">
+              <a href="/Konduru_Priyanka_AI_ML_Resume.pdf" download="Konduru_Priyanka_AI_ML_Resume.pdf">
                 <Download className="mr-2 h-4 w-4" />
                 Download Resume
               </a>
