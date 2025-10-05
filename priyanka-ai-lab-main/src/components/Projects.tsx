@@ -4,11 +4,11 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
-    title: "AI Ethics & Bias Auditor",
-    description: "Built a RAG-powered web AI auditor to detect ethical risks and biases in datasets and model outputs. Applied LangChain for real-time NLP analysis, identifying gender, racial, and language biases with actionable insights.",
-    tech: ["Python", "RAG", "LangChain", "AIML", "NLP"],
+    title: "AI Travel Buddy",
+    description: "An AI-powered travel planning assistant that helps users discover destinations, plan itineraries, and get personalized travel recommendations using advanced AI algorithms.",
+    tech: ["React", "AI/ML", "TypeScript", "API Integration"],
     status: "completed",
-    link: "https://ethisphere-guard.lovable.app/",
+    link: "https://ai-travel-buddy-companion.vercel.app/",
     github: ""
   },
   {
@@ -16,15 +16,15 @@ const projects = [
     description: "Built an AI multi-agent system to plan, research, and synthesize topics into polished reports. Engineered planner, researcher, and synthesizer agents for accurate, structured information retrieval.",
     tech: ["Python", "Gemini AI", "Multi-Agent Systems", "NLP"],
     status: "completed",
-    link: "https://topic-unraveler-pro.lovable.app",
+    link: "https://ai-research-assistant-saas-56pz.vercel.app/",
     github: ""
   },
   {
-    title: "AI Travel Buddy",
-    description: "An AI-powered travel planning assistant that helps users discover destinations, plan itineraries, and get personalized travel recommendations using advanced AI algorithms.",
-    tech: ["React", "AI/ML", "TypeScript", "API Integration"],
+    title: "AI Ethics & Bias Auditor",
+    description: "Built a RAG-powered web AI auditor to detect ethical risks and biases in datasets and model outputs. Applied LangChain for real-time NLP analysis, identifying gender, racial, and language biases with actionable insights.",
+    tech: ["Python", "RAG", "LangChain", "AIML", "NLP"],
     status: "completed",
-    link: "https://ai-travel-whisperer-51.lovable.app",
+    link: "https://ai-ethics-bias-auditor-analayzer.vercel.app/",
     github: ""
   },
   {
